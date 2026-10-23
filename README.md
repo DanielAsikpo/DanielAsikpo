@@ -21,19 +21,12 @@ I enjoy building practical projects that solve real-world problems and help me g
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### ☁️ AWS Certifications
+### Certifications
 
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Developer – Associate
 
-
-### 📚 Currently Learning
-
-- AWS cloud architecture and security
-- Linux and networking
-- Threat detection and incident response
-- Infrastructure automation
 
 ### 📫 Connect With Me
 
